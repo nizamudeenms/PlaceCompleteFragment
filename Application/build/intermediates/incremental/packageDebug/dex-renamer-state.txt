@@ -1,0 +1,7 @@
+#Fri May 26 18:12:00 EEST 2017
+base.0=C\:\\Android\\Projects\\PlaceCompleteFragment\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2c21a99b47604f40267755b228c7b7066e3e0c1b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Android\\Projects\\PlaceCompleteFragment\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ff53ac5fc55511613c8c437127f9d9b46aa3d07a\\classes.dex
+base.1=C\:\\Android\\Projects\\PlaceCompleteFragment\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ff53ac5fc55511613c8c437127f9d9b46aa3d07a
+file.0=C\:\\Android\\Projects\\PlaceCompleteFragment\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_2c21a99b47604f40267755b228c7b7066e3e0c1b\\classes.dex

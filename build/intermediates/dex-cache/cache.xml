@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\3ae307d8f180196c1b4bf34c81143ee2569267fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c6105b06b7463e9ca93813c122380b604fc717d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\67a0f40932b353d5bf1d608d0aabb1e15db10371\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b6fb450c296fec4d234d7513426b052c9831392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\a6e275e92dd8eb0682a297f0650023d9ff9af53f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_990d864769e648c2e89fe3528c5c4359d9921edd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\8ae663a31948bdde4d28058db75d214eef0c8cc6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_401d7eb21462e1af90e3204d829347004b85a2a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\a17e40d67416aa59cd2375f7ae07fc840a923042\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d3f153322d8747064187499e92feb131db04f7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\93a477599f1c8df56fe90d4e11954d4ae475b125\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_965e7bece75f73fa9a9dcb6888994011b5926a04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2c21a99b47604f40267755b228c7b7066e3e0c1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\ec0bfd79e394213ab56b7b26d4fcdcf2404baac7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5de559ce949e669eda81333fac67be26aeeea26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\30d8f07a156d09a7d91dcf31ce8f20d1942a1493\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9dc48f3250979be228da5f7ff821798f83532a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\45ba84724c5dec87c31dd93b4b182b22a0a181c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4bafe88545ae0367118b6f17d05f782374b89436\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\a73135f8ffcb77f835e2d92cc5fc7af6957b3eb7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_73cd0a00e8ecd1019cc5170b90968ed73aa73a35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\b3c6831608ba68104e7936f1eda62fd04395b98b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77f4be949fede78c3960cfe52ae60244aa3aa8c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\b0d5ec30d56716b0e64aac87fcd66d0175dda7e5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a48437487efe61818366cec8e4badb6a649fa9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\81e9de3c030a37e76a68329fde879806e1a992f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6d9b91101c1f73b30272ed1ba4f7b11e22862b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\d9988db82feeeb5b51c4d439ba3928df2ba50a80\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6502e9bc960d3bd3ed9f519f92077ba0e40b1e5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_609950e701d403f658cad5ef3aefeb2b92944fd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\4136309f869bc35feb7099bd3b788924d0ce76de\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a2c0ecdb5ff7200dbeac7e46cfed4a0407634a1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\ec0fa22a4afde10a2549223c2a423663b1cf2a52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d70575142566c556250963cf541c7a0367baf84e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\c9351c764957d2efc81253a0289ffeaef16ef7e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f05cb53a315c605befa3120c737bec1b93b8a13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\7d06fbe480855adf331d356a2ac81a853b100325\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0e2da7bf0a300b805d2b948fce1e19588a40ea7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\794be99eb3c5d7dbfab368da210208dcc5186319\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_453b389f4296955eb645399aa753a9c22b0010fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\b0628551c32e2e714037ed6018fed71cd6bc1108\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0b359527ec8e64a6148836094d6fe1fd7789453\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\46eaa50845af0323a6c930ee72f03e233a79fed5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7fb1cd7ce06ff700a86ce0932fbe48b8f21e3b7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\b0d5ec30d56716b0e64aac87fcd66d0175dda7e5\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_179c7ef993f1c2a8fde2e76228098caf2248f88f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\e832d914eece5b2cac04f65edd1d14b44c2c3996\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00a438c3f47cb49d171b72ab04376cb69d4a5155\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\6e33fa45e5caddc5a43a979b9db732f572ba8ce4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e3177a504b3f0681941f62866ac6159367554f8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\d5265861a8e058d23d28b8f1d53b59a877c91560\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5782e5af0182da1bfd1908d0330831cc89a2361e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\1a0025b7071100233cf6723796d75e18dc501a45\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cfb7c92ff1e52eb0ea1ca8570bfcc0a07260772d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="056d21eed084f4846af297c34e4350286a6d845a">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ff53ac5fc55511613c8c437127f9d9b46aa3d07a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\3783b5504044460584097d1a1dc0dbd8a6cde366\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_36037032c0c4eea33fd59a0907e0bba3532d25eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\92aeeec7bcbff9a02c8c7552a02b9d280e063b73\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_deee59f61bea84010b53b6e10fefdec60bc100dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\a6e275e92dd8eb0682a297f0650023d9ff9af53f\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_ba57ebf990f872d0bbada58316a9b25cb012ddb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\e704ab23da6076321dbe80dc90e593dff4e00045\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8beea05233a7af289b001048269d1ee67d9bad1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Michael\.android\build-cache\46eaa50845af0323a6c930ee72f03e233a79fed5\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Android\Projects\PlaceCompleteFragment\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_1824ebd06d835a982f5931440a501ad057154c2f\classes.dex" />
+    </item>
+
+</items>
